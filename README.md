@@ -1,7 +1,7 @@
 # KnowYourSelf 🧠✨
 
 An interactive React-based personality analysis quiz app that helps users understand their core traits based on real-life scenarios.
-
+live Demo:- https://knowaboutyourself.netlify.app
 ## 🔮 Features
 
 - 🧩 20 psychology-based scenario questions  
